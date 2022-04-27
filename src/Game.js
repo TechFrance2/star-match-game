@@ -70,7 +70,8 @@ const Game = (props) => {
   return (
     <div className="game">
       <div className="help">
-        Pick 1 or more numbers that sum to the number of stars
+        Pick 1 or more numbers that sum to the number of stars before the timer
+        runs out.
       </div>
       <div className="body">
         <div className="left">
